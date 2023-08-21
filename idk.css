@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(98, 84, 221);
+}
+#objects{
+    font-size: medium;
+    font-family: sans-serif;
+    color: rgb(13, 14, 13);
+    letter-spacing: 0.1cm;
+}
